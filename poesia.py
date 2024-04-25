@@ -9,3 +9,5 @@ print("E rir meu riso e derramar meu pranto.")
 print("Ao seu pesar ou seu contentamento")
 print("\n\n\n")
 
+#mudança 2  no arquivo poesia.py
+#mudança no arquivo depois de baixado do github
